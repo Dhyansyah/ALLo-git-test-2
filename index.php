@@ -8,5 +8,9 @@
 <body>
     <h1>HAI SEMUA</h1>
     <p>YAH SEPERTI ITU LAH</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
